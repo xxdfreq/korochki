@@ -287,7 +287,7 @@ HTML_TEMPLATE = """
 """
 
 
-#  МАРШРУТЫ FLASK
+#  МАРШРУТЫ FLASK==========
 
 @app.route('/')
 def index():
