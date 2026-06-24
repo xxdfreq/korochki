@@ -68,7 +68,7 @@ def get_books_from_db(search='', sort='title', page=1, per_page=20):
             conn.close()
 
 
-#  HTML-ШАБЛОН (с улучшенной доступностью)
+#  HTML-ШАБЛОН (с улучшенной доступностью)==================
 
 HTML_TEMPLATE = """
 <!DOCTYPE html>
